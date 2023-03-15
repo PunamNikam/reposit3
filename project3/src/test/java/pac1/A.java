@@ -8,5 +8,9 @@ public class A {
 		
 	System.out.println("this is git project...........111111");
 		System.out.println("this is git project...........111111");
+		System.out.println("this is git project...........111111");
+		System.out.println("this is git project...........111111");
+		System.out.println("this is git project...........111111");
+		System.out.println("this is git project...........111111");
 	}
 }
